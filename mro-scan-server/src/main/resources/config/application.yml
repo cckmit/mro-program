@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: prod
+  aop:
+    proxy-target-class: true    #使用cglib进行代理
+  main:
+    web-application-type: none
+
+logging: #配置日志级别
+  level:
+    root: INFO #全局为info级别
+  config: classpath:config/logback.xml
+
+

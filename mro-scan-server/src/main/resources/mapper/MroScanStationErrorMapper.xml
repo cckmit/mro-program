@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.asiainfo.opmc.rtd.mro.mapper.MroScanStationErrorMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.asiainfo.opmc.rtd.mro.entity.po.MroScanStationErrorPo">
+        <id column="id" property="id" />
+        <result column="op_time" property="opTime" />
+        <result column="TS_IP" property="tsIp" />
+        <result column="server_type" property="serverType" />
+        <result column="error_state" property="errorState" />
+        <result column="error_desc" property="errorDesc" />
+        <result column="create_dt" property="createDt" />
+    </resultMap>
+
+</mapper>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.asiainfo.opmc.rtd.mro.mapper.MroLogMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.asiainfo.opmc.rtd.mro.entity.po.MroLogPo">
+        <id column="ID" property="id"/>
+        <result column="FILE_NAME" property="fileName"/>
+        <result column="TS_IP" property="tsIp"/>
+        <result column="STATION" property="station"/>
+        <result column="SOURCE_DATE" property="sourceDate"/>
+        <result column="FLAG" property="flag"/>
+        <result column="UPDATE_DATE" property="updateDate"/>
+    </resultMap>
+    <select id="getStationList" resultType="string">
+        select distinct TS_IP from mro_log_${type}_${time}
+    </select>
+</mapper>

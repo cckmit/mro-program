@@ -1,0 +1,14 @@
+#server:
+#  port: 8988
+
+spring:
+  datasource:
+    url: jdbc:mysql://10.76.217.186:3306/mr_info?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: mr_info
+    password: mr_info1q#
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      minimum-idle: 3
+      maximum-pool-size: 10
+      max-lifetime: 30000 #不能小于30秒，否则默认回到1800秒
+      connection-test-query: SELECT 1

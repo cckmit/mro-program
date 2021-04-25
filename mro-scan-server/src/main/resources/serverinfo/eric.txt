@@ -1,0 +1,4 @@
+10.212.133.110	22	jituan	Jit$2018	/opt/ericsson/data/northbound/ready/
+10.212.141.88	22	jituan	Jit$2018	/opt/ericsson/data/northbound/ready/
+10.211.54.227	22	jituan	Jit$2018	/opt/ericsson/data/northbound/ready/
+10.211.54.228	22	jituan	Jit$2018	/opt/ericsson/data/northbound/ready/

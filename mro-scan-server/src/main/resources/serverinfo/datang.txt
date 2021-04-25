@@ -1,0 +1,2 @@
+10.78.89.158	22	omcrftp	Lion$2019	/export/home/mrftp/mrfile/dtmrfile/
+10.78.89.186	22	omcrftp	Lion$2019	/home/mrftp/mrfile/dtmrfile/

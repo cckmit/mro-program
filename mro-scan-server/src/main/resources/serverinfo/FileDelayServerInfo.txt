@@ -1,0 +1,17 @@
+10.212.102.126	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.102.136	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.102.137	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.88	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.94	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.141.23	22	ftpuser	Hznb-201901	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.142.127	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.142.133	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.142.138	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.80	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.142.137	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.101.237	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.101.239	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.101.242	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.105	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.83	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.142.125	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/

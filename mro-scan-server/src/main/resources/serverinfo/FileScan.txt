@@ -1,0 +1,10 @@
+10.212.102.126	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.102.136	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.102.137	22	ossuser	Bin20%18go	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.88	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.140.94	22	ftpuser	Hznb-2019	/export/home/omc/var/fileint/TSNBI/LTESpecial/
+10.212.120.29	22	richuser	Tsbyj#12l5c	/home/richuser/l3fw_mr/kpi_import/
+10.212.120.30	22	richuser	Tsbyj#12l5c	/home/richuser/l3fw_mr/kpi_import/
+10.212.120.31	22	richuser	Tsbyj#12l5c	/home/richuser/l3fw_mr/kpi_import/
+10.212.120.32	22	richuser	Tsbyj#12l5c	/home/richuser/l3fw_mr/kpi_import/
+10.212.120.33	22	richuser	Tsbyj#12l5c	/home/richuser/l3fw_mr/kpi_import/

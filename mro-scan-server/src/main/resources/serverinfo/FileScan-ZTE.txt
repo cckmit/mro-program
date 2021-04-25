@@ -1,0 +1,5 @@
+10.212.120.193	22	ltemr	MR$hz2019	/NDS-L/NDS-LN/output/north_output/NORTHFILE/MR/MRO/
+10.212.120.194	22	ltemr	MR$hz2019	/NDS-L/NDS-LN/output/north_output/NORTHFILE/MR/MRO/
+10.212.120.195	22	ltemr	MR$hz2019	/NDS-L/NDS-LN/output/north_output/NORTHFILE/MR/MRO/
+10.212.120.196	22	ltemr	MR$hz2019	/NDS-L/NDS-LN/output/north_output/NORTHFILE/MR/MRO/
+10.212.120.197	22	ltemr	MR$hz2019	/NDS-L/NDS-LN/output/north_output/NORTHFILE/MR/MRO/
